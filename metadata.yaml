@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '37260'
     url: http://www.gutenberg.org/2009/agents/37260
     wikipedia: https://en.wikipedia.org/wiki/Remington_Schuyler
+covers:
+- cover_type: archival
+  image_path: 71422-h/images/cover.jpg
 creator:
   editor:
     agent_name: French, Joseph Lewis
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '8001'
     url: http://www.gutenberg.org/2009/agents/8001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71422#The-pioneer-West-b-Narratives-of-the-Westward-march-of-empire
 gutenberg_issued: '2023-08-17'
 identifiers:
   gutenberg: '71422'
